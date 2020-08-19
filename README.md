@@ -1,4 +1,2 @@
-# PASSWORD :
-
 # username : Amardhika
-#Password : Amar
+# Password : Amar
